@@ -18,3 +18,5 @@ SpaceX Website
     Vite: For quick development and production builds.
     CSS Modules: Ensuring scoped and maintainable styling.
     REST API: Fetching real-time data from the SpaceX API.
+
+// You may refer to the DOCUMENTATION.MD for the build and startup of the App
