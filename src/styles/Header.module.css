@@ -1,0 +1,16 @@
+.headerContainer {
+    background-color: antiquewhite;
+    padding: 25px;
+    height: 70px;
+}
+
+.logoContainer {
+    height: 100%;
+    width: 10%;
+}
+
+.logo {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}

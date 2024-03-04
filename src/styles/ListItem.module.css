@@ -1,0 +1,40 @@
+@import './globals.css';
+
+.container {
+    border: 1px solid var(--gray-border);
+    margin-bottom: 15px;
+    box-shadow: 1px 5px 5px var(--gray-border);
+    width: 70%;
+    border-radius: 10px;
+
+}
+
+.header {
+    padding: 15px 30px 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    border-radius: inherit;
+    border-bottom: 1px solid var(--gray-border);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.arrowLogo {
+    cursor: pointer;
+}
+
+.details {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-left: 15px;
+}
