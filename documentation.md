@@ -79,5 +79,7 @@ Building for Production
 Conclusion
 Congratulations! You've successfully set up a React project using Vite. You can now continue developing your application using Vite's fast and efficient build system.
 
-//vite documentation: https://vitejs.dev/guide/
+//Aditional guides:
 
+vite documentation: https://vitejs.dev/guide/
+for further deployment: https://vitejs.dev/guide/static-deploy
